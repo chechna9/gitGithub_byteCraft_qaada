@@ -1,4 +1,6 @@
+
 .team {
+    margin: 20px;
   display: flex;
   flex-direction: column;
   background-color: rgb(26, 61, 86);
