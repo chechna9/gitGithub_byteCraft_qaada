@@ -1,0 +1,25 @@
+.team {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(26, 61, 86);
+  border-radius: 25px;
+  align-items: center;
+  color: white;
+  padding: 20px 20px;
+}
+.team_members{
+    display:flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.member {
+  display: flex;
+  border: 2px solid;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: brown;
+}
+.avatar {
+  width: 40px;
+  margin-right: 10px;
+}
